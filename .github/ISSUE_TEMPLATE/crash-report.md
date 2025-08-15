@@ -10,6 +10,9 @@ assignees: ''
 **Describe the crash**
 A clear and concise description of how the crash happens.
 
+**Branch/PR/Release:**
+Add what version you are playing on [e.g. PR number, commit, release]
+
 **To Reproduce**
 Steps to reproduce the crash:
 1. Open [game name]
@@ -25,5 +28,5 @@ Steps to reproduce the crash:
 **Additional context**
 Add any other context about the problem here.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots and Logging**
+Add your log file with the issue and if applicable, add screenshots to help explain your problem.

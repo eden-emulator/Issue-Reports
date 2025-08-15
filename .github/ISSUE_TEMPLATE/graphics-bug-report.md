@@ -10,6 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Branch/PR/Release:**
+Add what version you are playing on [e.g. PR number, commit, release]
+
 **To Reproduce**
 Steps to reproduce the behaviour:
 1. Open [game name]
@@ -29,5 +32,5 @@ A clear and concise description of what happens on switch or Ryujinx.
 **Additional context**
 Add any other context about the problem here.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots and Logging**
+Add your log file with the issue and if applicable, add screenshots to help explain your problem.
